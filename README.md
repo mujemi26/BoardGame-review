@@ -107,6 +107,14 @@ Access the application at:
 ## Screenshots
  - Webapp
    ![WebApp](./imgs/Webapp.png)
+ - EC2 Instances
+   ![WebApp](./imgs/EC2.png)
+ - Jenkins Dashboard
+   ![WebApp](./imgs/jenkins-dashboard.png)
+ - SoanrQube
+   ![WebApp](./imgs/sonarqube-issues.png)
+ - Nexus Repo
+   ![WebApp](./imgs/nexus-repo.png)
 
 ## 🤝 Contributing
 1. Fork the repository
