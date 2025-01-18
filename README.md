@@ -43,7 +43,7 @@ This web application displays lists of board games and their reviews. While anyo
 ### Local Development
 ```bash
 # Clone repository
-git clone [repository-url]
+git clone [https://github.com/mujemi26/BoardGame-review.git]
 
 # Build project
 mvn clean package
