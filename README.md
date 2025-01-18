@@ -22,6 +22,10 @@ This web application displays lists of board games and their reviews. While anyo
 - Maven
 - Terraform
 - AWS
+- Prometheus
+- Grafana
+- SonarQube
+- Trivy
 - Ansible
 - Docker
 - Kubernetes
