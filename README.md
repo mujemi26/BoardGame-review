@@ -115,6 +115,11 @@ Access the application at:
    ![WebApp](./imgs/sonarqube-issues.png)
  - Nexus Repo
    ![WebApp](./imgs/nexus-repo.png)
+ - Prometheus
+   ![WebApp](./imgs/prometheus.png)
+ - Grafana
+   ![WebApp](./imgs/grafana1.png)
+   ![WebApp](./imgs/grafana-cpu.png)
 
 ## 🤝 Contributing
 1. Fork the repository
