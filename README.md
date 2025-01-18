@@ -26,6 +26,7 @@ This web application displays lists of board games and their reviews. While anyo
 - Grafana
 - SonarQube
 - Trivy
+- Nexus Repository
 - Ansible
 - Docker
 - Kubernetes
