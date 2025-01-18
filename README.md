@@ -10,7 +10,7 @@ This web application displays lists of board games and their reviews. While anyo
 - H2 database for data persistence
 
 ## Architecture Overview
-![Project Architecture](./diagram.png)
+![Project Architecture](./project-diagram.png)
 
 ## 🛠️ Tech Stack
 - Java 11
