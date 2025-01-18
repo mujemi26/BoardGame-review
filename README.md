@@ -104,6 +104,10 @@ Access the application at:
 - Local: http://localhost:8080
 - Production: [your-domain]
 
+## Screenshots
+ - Webapp
+   ![WebApp](./imgs/Webapp.png)
+
 ## 🤝 Contributing
 1. Fork the repository
 2. Create feature branch
